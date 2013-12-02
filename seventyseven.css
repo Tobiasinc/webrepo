@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+
+body {
+	background-color:black;
+}
+
+div {
+	background-color:red;
+	border: 2px solid black;
+	border-radius: 10px;
+	margin: 10px;
+	pattern 10px;
+	text-align: center;
+}
+
+table {
+	text-align: center;
+}
